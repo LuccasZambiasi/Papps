@@ -16,4 +16,4 @@ Depois de abrir o script em seu IDE Python, execute o código para obter opçõe
 3. Reinicie o computador imediatamente
 4. Reinicie o computador após determinado tempo 
 
-Selecionar as opções 2 ou 4 exigirá que você insira o tempo em segundos após o qual deseja reiniciar/desligar o sistema. Caso contrário, o padrão para as opções 1 e 4 é definido como zero segundos.
+Selecionar as opções 2 ou 4 exigirá que você insira o tempo em segundos após o qual deseja reiniciar/desligar o sistema. Caso contrário, o padrão para as opções 1 e 4 é definido como 0 segundos.
